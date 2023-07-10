@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name ="btntext">#FFFFFFFF</color>
+    <color name="spltext">#FFFFFFFF</color>
+    <color name="btncol">#363636</color>
+    <color name="optcol">#FF9800</color>
+</resources>
